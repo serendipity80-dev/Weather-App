@@ -10,6 +10,7 @@ npx create-react-app weather-app
 cd weather-app
 npm start
 ```
+### `package.json`
 ```package.json
 "dependencies":{
 "axios": "^0.21.1",
