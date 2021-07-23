@@ -1,6 +1,6 @@
 # Weather-App
 
-A simple React App where I fetched the data from external API [OpenWeather](https://openweathermap.org/api) using axios.
+A simple React App where I fetched the data from external API [OpenWeather](https://openweathermap.org/api) using Axios.
 
 ## Getting Started With Create React App
 
